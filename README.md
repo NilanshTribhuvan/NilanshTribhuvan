@@ -1,16 +1,56 @@
-# Hi 👋 My name is Your Name
+# Hi 👋 I'm Nilansh Tribhuvan
 
-## Software Developer
+🚀 Software Developer | Aspiring SDE
 
-Have X years of coding experience.
+💻 Passionate about building scalable, efficient, and user-friendly applications
+🎯 Strong foundation in Data Structures, Algorithms, and Backend Development
 
-- 🌍 I'm based in India
-- ✉️ You can contact me at your@email.com
-- 🧠 I'm learning Cybersecurity & Backend
+---
 
-## Skills
+## 🌍 About Me
 
-![My Skills](https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,express,mongodb,mysql,linux,git,docker)
+* 🎓 BTech CSE (4th Year)
+* 💡 Focused on **Software Development & Problem Solving**
+* 🧠 Strong in **DSA, OOPs, DBMS, and System Design basics**
+* ⚙️ Skilled in building **full-stack applications** using modern technologies
+* 🌱 Currently learning **Advanced DSA & Backend Engineering**
+* 📍 Based in India
+* 
+---
+
+## 🎯 Goal
+
+🚀 To secure a **Software Development Engineer (SDE)** role where I can apply my problem-solving skills and build impactful, scalable software systems
+
+---
+
+## ⚡ Fun Fact
+
+💡 I enjoy solving coding problems and turning ideas into real-world applications
+
+---
+
+## 🧠 Skills
+![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,react,nodejs,express,mongodb,mysql,linux,git,html,css,flutter,postman,pytorch,tensorflow,ubuntu)
+
+---
+
+## 🚧 Projects
+
+### 🔐 CYBI-AWARE
+
+A cybersecurity blogging platform with quizzes to spread awareness
+⚡ Built using React, Node.js, MongoDB
+
+### 🤖 AI Malware Detection System
+
+Deep learning model comparing multiple neural networks for malware detection
+
+### 🚧 Pothole Detection System
+
+YOLOv8-based computer vision system for real-time pothole detection
+
+---
 
 ## Socials
 
