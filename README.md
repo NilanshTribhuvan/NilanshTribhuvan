@@ -1,6 +1,6 @@
 # Hi 👋 I'm Nilansh Tribhuvan
 
-🚀 Software Developer | Aspiring SDE
+🚀 Aspiring Software Developer 
 
 💻 Passionate about building scalable, efficient, and user-friendly applications
 
