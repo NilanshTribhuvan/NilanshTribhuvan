@@ -16,6 +16,12 @@
 * 🌱 Currently learning **Advanced DSA & Backend Engineering**
 * 📍 Based in India
 * 
+
+---
+
+## 🧠 Skills
+![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,react,nodejs,express,mongodb,mysql,linux,git,html,css,flutter,postman,pytorch,tensorflow,ubuntu)
+
 ---
 
 ## 🎯 Goal
@@ -27,11 +33,6 @@
 ## ⚡ Fun Fact
 
 💡 I enjoy solving coding problems and turning ideas into real-world applications
-
----
-
-## 🧠 Skills
-![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,react,nodejs,express,mongodb,mysql,linux,git,html,css,flutter,postman,pytorch,tensorflow,ubuntu)
 
 ---
 
@@ -56,3 +57,6 @@ YOLOv8-based computer vision system for real-time pothole detection
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/NilanshTribhuvan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/nilansh-tribhuvan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:reachnilansh@gmail.com)
+
+---
