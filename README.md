@@ -22,8 +22,28 @@
 
 ## 🧠 Skills
 
+## 🧠 Skills
+
 <p align="left">
-<a href="https://cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp" /></a><a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" /></a><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a><a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a><a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a><a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" /></a><a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a><a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" /></a><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a><a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a><a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" /></a><a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" /></a><a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" /></a><a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" /></a>
+<a href="https://cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp" height="45" style="margin-right:10px;"/></a>
+<a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" height="45" style="margin-right:10px;"/></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="45" style="margin-right:10px;"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="45" style="margin-right:10px;"/></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="45" style="margin-right:10px;"/></a>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="45" style="margin-right:10px;"/></a>
+<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="45" style="margin-right:10px;"/></a>
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="45" style="margin-right:10px;"/></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="45" style="margin-right:10px;"/></a>
+<a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" height="45" style="margin-right:10px;"/></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="45" style="margin-right:10px;"/></a>
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="45" style="margin-right:10px;"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="45" style="margin-right:10px;"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="45" style="margin-right:10px;"/></a>
+<a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" height="45" style="margin-right:10px;"/></a>
+<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="45" style="margin-right:10px;"/></a>
+<a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" height="45" style="margin-right:10px;"/></a>
+<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" height="45" style="margin-right:10px;"/></a>
+<a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" height="45"/></a>
 </p>
 
 ---
