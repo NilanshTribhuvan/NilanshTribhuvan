@@ -3,6 +3,7 @@
 🚀 Software Developer | Aspiring SDE
 
 💻 Passionate about building scalable, efficient, and user-friendly applications
+
 🎯 Strong foundation in Data Structures, Algorithms, and Backend Development
 
 ---
