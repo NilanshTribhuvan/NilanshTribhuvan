@@ -23,6 +23,7 @@
 ## 🧠 Skills
 
 <p align="left">
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" height="45" style="margin-right:10px;"/></a>
 <a href="https://cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp" height="45" style="margin-right:10px;"/></a>
 <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" height="45" style="margin-right:10px;"/></a>
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="45" style="margin-right:10px;"/></a>
