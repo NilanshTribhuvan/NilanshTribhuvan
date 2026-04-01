@@ -22,8 +22,6 @@
 
 ## 🧠 Skills
 
-## 🧠 Skills
-
 <p align="left">
 <a href="https://cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp" height="45" style="margin-right:10px;"/></a>
 <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" height="45" style="margin-right:10px;"/></a>
