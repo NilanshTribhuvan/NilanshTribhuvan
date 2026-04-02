@@ -16,7 +16,7 @@
 * ⚙️ Skilled in building **full-stack applications** using modern technologies
 * 🌱 Currently learning **Advanced DSA & Backend Engineering**
 * 📍 Based in India
-* 
+  
 
 ---
 
