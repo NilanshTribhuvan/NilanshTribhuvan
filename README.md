@@ -72,7 +72,12 @@ Deep learning model comparing multiple neural networks for malware detection
 YOLOv8-based computer vision system for real-time pothole detection
 
 ---
-
+<div align="Center">
+  
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+  
+</div>
+---
 ## Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/NilanshTribhuvan)
