@@ -38,7 +38,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="45" style="margin-right:10px;"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="45" style="margin-right:10px;"/></a>
 <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="45" style="margin-right:10px;"/></a>
-<a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" height="45" style="margin-right:10px;/></a>
+<a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" height="45" style="margin-right:10px;"/></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" height="45"/></a>
 </p>
 
