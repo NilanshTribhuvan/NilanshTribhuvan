@@ -23,23 +23,24 @@
 ## 🧠 Skills
 
 <p align="left">
-<a href="https://cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp" height="45" style="margin-right:10px;"/></a>
+
 <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" height="45" style="margin-right:10px;"/></a>
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="45" style="margin-right:10px;"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="45" style="margin-right:10px;"/></a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" height="45"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="45" style="margin-right:10px;"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="45" style="margin-right:10px;"/></a>
 <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="45" style="margin-right:10px;"/></a>
 <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="45" style="margin-right:10px;"/></a>
 <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="45" style="margin-right:10px;"/></a>
 <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="45" style="margin-right:10px;"/></a>
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="45" style="margin-right:10px;"/></a>
 <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" height="45" style="margin-right:10px;"/></a>
+<a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" height="45" style="margin-right:10px;"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="45" style="margin-right:10px;"/></a>
+<a href="https://cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp" height="45" style="margin-right:10px;"/></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="45" style="margin-right:10px;"/></a>
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="45" style="margin-right:10px;"/></a>
 <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="45" style="margin-right:10px;"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="45" style="margin-right:10px;"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="45" style="margin-right:10px;"/></a>
 <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="45" style="margin-right:10px;"/></a>
-<a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" height="45" style="margin-right:10px;"/></a>
-<a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" height="45"/></a>
 </p>
 
 ---
@@ -83,8 +84,10 @@ YOLOv8-based computer vision system for real-time pothole detection
 
 ## Socials
 
+<div align="Center">
+  
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/NilanshTribhuvan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/nilansh-tribhuvan)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:reachnilansh@gmail.com)
-
+</div>
 ---
