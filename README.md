@@ -74,7 +74,7 @@ YOLOv8-based computer vision system for real-time pothole detection
 ---
 <div align="Center">
   
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/NilanshTribhuvan/NilanshTribhuvan/blob/output/github-snake-dark.svg)
   
 </div>
 ---
