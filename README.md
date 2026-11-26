@@ -23,7 +23,6 @@
 ## 🧠 Skills
 
 <p align="left">
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" height="45" style="margin-right:10px;"/></a>
 <a href="https://cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp" height="45" style="margin-right:10px;"/></a>
 <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" height="45" style="margin-right:10px;"/></a>
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="45" style="margin-right:10px;"/></a>
@@ -38,11 +37,9 @@
 <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="45" style="margin-right:10px;"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="45" style="margin-right:10px;"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="45" style="margin-right:10px;"/></a>
-<a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" height="45" style="margin-right:10px;"/></a>
 <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="45" style="margin-right:10px;"/></a>
-<a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" height="45" style="margin-right:10px;"/></a>
-<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" height="45" style="margin-right:10px;"/></a>
-<a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" height="45"/></a>
+<a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" height="45" style="margin-right:10px;/></a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" height="45"/></a>
 </p>
 
 ---
