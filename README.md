@@ -1,22 +1,18 @@
-# Hi 👋 I'm Nilansh Tribhuvan 
+# Hey there! 👋 I'm Nilansh Tribhuvan
 
-🚀 Aspiring Software Developer 
+### ☕ Java Backend Developer | Spring Boot | Problem Solver
 
-💻 Passionate about building scalable, efficient, and user-friendly applications
+I enjoy building backend applications, understanding how systems work behind the scenes, and turning ideas into practical software.
 
-🎯 Strong foundation in Data Structures, Algorithms, and Backend Development
+### 🌍 About Me
 
----
-
-## 🌍 About Me
-
-* 🎓 BTech CSE (4th Year)
-* 💡 Focused on **Software Development & Problem Solving**
-* 🧠 Strong in **DSA, OOPs, DBMS, and System Design basics**
-* ⚙️ Skilled in building **full-stack applications** using modern technologies
-* 🌱 Currently learning **Advanced DSA & Backend Engineering**
-* 📍 Based in India
-  
+- 🎓 Computer Science & Engineering graduate (2026)
+- ☕ Building backend applications using **Java and Spring Boot**
+- 🔧 Experience with **REST APIs, authentication, databases and backend integrations**
+- 🗄️ Worked with **MySQL, MongoDB, Redis and Kafka**
+- 🧠 Interested in **Data Structures, Algorithms and System Design**
+- 🚀 Learning by building projects, solving problems and exploring new technologies
+- 📍 India
 
 ---
 
@@ -53,21 +49,25 @@
 
 ---
 
-## 📊 GitHub Dashboard
 
-<table>
+<h2 align="center">📊 GitHub Dashboard</h2>
+
+<table width="100%">
 <tr>
 <td width="33%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NilanshTribhuvan&show_icons=true&theme=merko&hide_border=true&card_width=300" width="100%" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=NilanshTribhuvan&show_icons=true&hide_rank=true&include_all_commits=true&card_width=300&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F0883E&border_color=30363D" width="100%" />
 </td>
+
 <td width="33%" align="center">
-<img src="https://streak-stats.demolab.com?user=NilanshTribhuvan&theme=dark&hide_border=true&background=0D1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" width="100%" height="180" />
+<img src="https://streak-stats.demolab.com?user=NilanshTribhuvan&card_width=300&card_height=195&background=0D1117&border=30363D&ring=58A6FF&fire=F0883E&currStreakLabel=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" width="100%" />
 </td>
+
 <td width="33%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilanshTribhuvan&layout=compact&theme=merko&hide_border=true&card_width=300" width="100%" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilanshTribhuvan&layout=compact&langs_count=5&card_width=300&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" width="100%" />
 </td>
 </tr>
 </table>
+
 
 ---
 
