@@ -58,7 +58,11 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NilanshTribhuvan&show_icons=true&theme=merko&include_all_commits=true&hide_border=true" />
-
+  p align="center">
+</p>
+  <img src="https://streak-stats.demolab.com?user=NilanshTribhuvan&theme=dark&hide_border=true&background=0D1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" alt="GitHub Streak Stats" />
+</p>
+<p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilanshTribhuvan&layout=compact&theme=merko&hide_border=true" />
 </p>
 
