@@ -71,35 +71,6 @@
 
 ---
 
-## 🎯 Goal
-
-🚀 To secure a **Software Development Engineer (SDE)** role where I can apply my problem-solving skills and build impactful, scalable software systems
-
----
-
-## ⚡ Fun Fact
-
-💡 I enjoy solving coding problems and turning ideas into real-world applications
-
----
-
-## 🚧 Projects
-
-### 🔐 CYBI-AWARE
-
-A cybersecurity blogging platform with quizzes to spread awareness
-⚡ Built using React, Node.js, MongoDB
-
-### 🤖 AI Malware Detection System
-
-Deep learning model comparing multiple neural networks for malware detection
-
-### 🚧 Pothole Detection System
-
-YOLOv8-based computer vision system for real-time pothole detection
-
----
-
 ## Socials
 
 <div align="Center">
