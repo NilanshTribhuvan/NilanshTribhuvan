@@ -90,4 +90,5 @@ YOLOv8-based computer vision system for real-time pothole detection
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/nilansh-tribhuvan)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:reachnilansh@gmail.com)
 </div>
+
 ---
