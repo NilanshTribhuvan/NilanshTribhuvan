@@ -53,6 +53,17 @@
 
 ---
 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NilanshTribhuvan&show_icons=true&theme=merko&include_all_commits=true&hide_border=true" />
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilanshTribhuvan&layout=compact&theme=merko&hide_border=true" />
+</p>
+
+---
+
 ## 🎯 Goal
 
 🚀 To secure a **Software Development Engineer (SDE)** role where I can apply my problem-solving skills and build impactful, scalable software systems
