@@ -69,16 +69,15 @@ I enjoy building backend applications, understanding how systems work behind the
 </table>
 
 ---
-
 <h2>🔥 LeetCode</h2>
 
-<div align="center">
+<p align="center">
   <img
     src="https://leetcard.jacoblin.cool/NilanshTribhuvan?theme=dark&ext=heatmap"
     alt="LeetCode Stats"
-    width="100%"
+    width="750"
   />
-</div>
+</p>
 ---
 
 ## Socials
