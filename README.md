@@ -4,17 +4,14 @@
     width="100%"
     alt="Animated developer banner"
   />
-</div>
-
-# Hey there! 
-<div align="right">
+<h1 align="left">
+  Hi, I'm Nilansh Tribhuvan
   <img
     src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif"
-    width="120"
+    width="75"
     alt="Pikachu"
   />
-</div>
-I'm Nilansh Tribhuvan
+</h1>
 
 ### ☕ Java Backend Developer | Spring Boot | Problem Solver
 
