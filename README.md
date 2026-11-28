@@ -4,17 +4,17 @@
     width="100%"
     alt="Animated developer banner"
   />
----
-<h1 align="left">
-  Hi, I'm Nilansh Tribhuvan
-  <img
-    src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif"
-    width="75"
-    alt="Pikachu"
-  />
-</h1>
+</div>
 
 ---
+
+<h3 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"
+       width="35"
+       style="vertical-align: middle;" />
+  <span style="vertical-align: middle;">Tech Stack</span>
+</h3>
+
 
 ### ☕ Java Backend Developer | Spring Boot | Problem Solver
 
@@ -30,9 +30,12 @@ I enjoy building backend applications, understanding how systems work behind the
 - 🚀 Learning by building projects, solving problems and exploring new technologies
 - 📍 India
 
----
-
-## 🧠 Skills
+<h2 align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"
+       width="40"
+       style="vertical-align: middle;" />
+  Tech Stack
+</h2>
 
 <p align="left">
 
@@ -55,7 +58,7 @@ I enjoy building backend applications, understanding how systems work behind the
 <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="45" style="margin-right:10px;"/></a>
 </p>
 
----
+
 
 <div align="Center">
   
