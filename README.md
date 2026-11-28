@@ -30,6 +30,7 @@ I enjoy building backend applications, understanding how systems work behind the
 - 🚀 Learning by building projects, solving problems and exploring new technologies
 - 📍 India
 
+
 <h2 align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"
        width="40"
@@ -66,9 +67,6 @@ I enjoy building backend applications, understanding how systems work behind the
   
 </div>
 
----
-
-
 <h2 align="center">📊 GitHub Dashboard</h2>
 
 <table width="100%">
@@ -87,7 +85,6 @@ I enjoy building backend applications, understanding how systems work behind the
 </tr>
 </table>
 
----
 <h2>🔥 LeetCode</h2>
 
 <p align="center">
@@ -97,13 +94,12 @@ I enjoy building backend applications, understanding how systems work behind the
     width="750"
   />
 </p>
----
 
 ## Socials
 
 <div align="Center">
   
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/NilanshTribhuvan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)]([YOUR_INSTAGRAM_PROFILE_URL](https://www.instagram.com/_its.nash__))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/nilansh-tribhuvan)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:reachnilansh@gmail.com)
 </div>
