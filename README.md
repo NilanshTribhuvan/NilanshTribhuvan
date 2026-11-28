@@ -9,10 +9,13 @@
 ---
 
 <h3 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"
-       width="35"
-       style="vertical-align: middle;" />
-  <span style="vertical-align: middle;">Tech Stack</span>
+  Hi
+  <img
+    src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif"
+    width="25"
+    alt="Pikachu"
+  />
+  , I'm Nilansh Tribhuvan
 </h3>
 
 
