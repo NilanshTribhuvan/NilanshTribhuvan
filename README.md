@@ -8,22 +8,36 @@
 
 ---
 
-<h3 align="center">
+<h1 align="center">
   Hi
   <img
     src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif"
-    width="25"
+    width="30"
     alt="Pikachu"
   />
   , I'm Nilansh Tribhuvan
+</h1>
+
+<h3 align="left">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif"
+    width="35"
+    style="vertical-align: middle;"
+    alt="Developer animation"
+  />
+  Fueled by coffee, powered by Java, and always chasing the next big idea.
 </h3>
-
-
-### ☕ Java Backend Developer | Spring Boot | Problem Solver
 
 I enjoy building backend applications, understanding how systems work behind the scenes, and turning ideas into practical software.
 
-### 🌍 About Me
+<h2 align="left">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/243199546-94cc4424-9251-42ae-8782-92465d0a0043.gif"
+    width="40"
+    alt="Animation"
+  />
+  About Me
+</h2>
 
 - 🎓 Computer Science & Engineering graduate (2026)
 - ☕ Building backend applications using **Java and Spring Boot**
@@ -31,14 +45,14 @@ I enjoy building backend applications, understanding how systems work behind the
 - 🗄️ Worked with **MySQL, MongoDB, Redis and Kafka**
 - 🧠 Interested in **Data Structures, Algorithms and System Design**
 - 🚀 Learning by building projects, solving problems and exploring new technologies
+- ⚽ Fun fact: Football is life
 - 📍 India
 
 
 <h2 align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"
-       width="40"
-       style="vertical-align: middle;" />
-  Tech Stack
+       width="30"
+       style="vertical-align: middle;" /> Tech Stack
 </h2>
 
 <p align="left">
@@ -70,7 +84,15 @@ I enjoy building backend applications, understanding how systems work behind the
   
 </div>
 
-<h2 align="center">📊 GitHub Dashboard</h2>
+<h2 align="left">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/240818493-79258361-c121-400c-8245-600b272b1eea.gif"
+    width="55"
+    style="vertical-align: middle;"
+    alt="GitHub Dashboard animation"
+  />
+  GitHub Dashboard
+</h2>
 
 <table width="100%">
 <tr>
@@ -88,7 +110,15 @@ I enjoy building backend applications, understanding how systems work behind the
 </tr>
 </table>
 
-<h2>🔥 LeetCode</h2>
+<h2 align="left">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/216655855-e00c1861-e964-4b4f-90ae-2592cad7b272.gif"
+    width="55"
+    style="vertical-align: middle;"
+    alt="LeetCode animation"
+  />
+  LeetCode
+</h2>
 
 <p align="center">
   <img
@@ -98,13 +128,29 @@ I enjoy building backend applications, understanding how systems work behind the
   />
 </p>
 
-## Socials
+<h2 align="left">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/216655797-63671069-cb49-4ce1-a2d0-f15d1f4be193.gif"
+    width="55"
+    style="vertical-align: middle;"
+    alt="Socials animation"
+  />
+  Socials
+</h2>
 
 <div align="Center">
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)]([YOUR_INSTAGRAM_PROFILE_URL](https://www.instagram.com/_its.nash__))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/nilansh-tribhuvan)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:reachnilansh@gmail.com)
+</div>
+
+<div align="center">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif"
+    width="15%"
+    alt="Animated footer"
+  />
 </div>
 
 ---
