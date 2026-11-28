@@ -8,8 +8,13 @@
 
 # Hey there! 
 <div align="right">
-  <img src="assets/pikachu.gif" width="120" alt="Pikachu" />
-</div>I'm Nilansh Tribhuvan
+  <img
+    src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif"
+    width="120"
+    alt="Pikachu"
+  />
+</div>
+I'm Nilansh Tribhuvan
 
 ### ☕ Java Backend Developer | Spring Boot | Problem Solver
 
