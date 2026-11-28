@@ -6,7 +6,8 @@
   />
 </div>
 
-# Hey there! <div align="right">
+# Hey there! 
+<div align="right">
   <img src="assets/pikachu.gif" width="120" alt="Pikachu" />
 </div>I'm Nilansh Tribhuvan
 
