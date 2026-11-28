@@ -6,7 +6,13 @@
   />
 </div>
 
-# Hey there! 👋 I'm Nilansh Tribhuvan
+# Hey there! <div align="right">
+  <img
+    src="https://github.com/user-attachments/assets/241763891-7bb1e704-6026-48f9-8435-2f4d40101348"
+    width="120"
+    alt="Pikachu"
+  />
+</div>I'm Nilansh Tribhuvan
 
 ### ☕ Java Backend Developer | Spring Boot | Problem Solver
 
