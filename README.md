@@ -4,6 +4,7 @@
     width="100%"
     alt="Animated developer banner"
   />
+---
 <h1 align="left">
   Hi, I'm Nilansh Tribhuvan
   <img
@@ -12,6 +13,8 @@
     alt="Pikachu"
   />
 </h1>
+
+---
 
 ### ☕ Java Backend Developer | Spring Boot | Problem Solver
 
